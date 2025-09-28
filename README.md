@@ -49,7 +49,7 @@ git commit -m "📚 docs(readme): update installation instructions"
 | **deps** | ⬆️ | `:arrow_up:` | 依赖升级 | `deps: upgrade react to v18` |
 | **breaking** | 💥 | `:boom:` | 破坏性变更 | `breaking(api): change response format` |
 | **remove** | 🔥 | `:fire:` | 移除代码或文件 | `remove(legacy): delete old auth system` |
-| **wip** | 🚧 | `:construction:` | 工作进行中 | `wip(feature): user dashboard layout` |
+| **wip** | 🚧 | `:construction:` | 工作进行中 | `wip(feature): under development` |
 | **hotfix** | 🚑 | `:ambulance:` | 紧急修复 | `hotfix(critical): fix payment processing` |
 
 ## Scope 范围说明
