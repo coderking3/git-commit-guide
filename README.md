@@ -39,9 +39,9 @@ git commit -m "📚 docs(readme): update installation instructions"
 
 | Type | Emoji | Code | 说明 | 示例 |
 |------|-------|------|------|------|
-| **build** | 📦 | `:package:` | 构建变更 | `build(webpack): update configuration` |
-| **ci** | 👷 | `:construction_worker:` | CI 配置/脚本变更 | `ci(github): add automated testing workflow` |
-| **revert** | ⏪ | `:rewind:` | 回滚提交 | `revert: feat(auth): add user login` |
+| **build** | 📦 | `:package:` | 构建变更 | `build: update configuration` |
+| **ci** | 👷 | `:construction_worker:` | CI 配置/脚本变更 | `ci: add automated testing workflow` |
+| **revert** | ⏪ | `:rewind:` | 回滚提交 | `revert: feat: add user login` |
 | **merge** | 🔀 | `:twisted_rightwards_arrows:` | 合并分支 | `merge: dev into main` |
 
 ### 🌟 特殊类型
