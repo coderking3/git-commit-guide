@@ -26,36 +26,36 @@ git commit -m "📚 docs(readme): update installation instructions"
 
 | Type | Emoji | Code | 说明 | 示例 |
 |------|-------|------|------|------|
-| **feat** | 🚀 | `:rocket:` | 新功能 | `feat: add password reset feature` |
-| **fix** | 🐞 | `:beetle:` | 修复 Bug | `fix: resolve authentication timeout` |
-| **docs** | 📚 | `:books:` | 文档更新 | `docs: update endpoint documentation` |
-| **style** | 💄 | `:lipstick:` | 代码格式化 | `style: format button styles` |
-| **refactor** | ♻️ | `:recycle:` | 重构代码 | `refactor: simplify date formatting` |
-| **perf** | ⚡ | `:zap:` | 性能优化 | `perf: optimize database queries` |
-| **test** | 🧪 | `:test_tube:` | 测试相关 | `test: add unit tests for login` |
-| **chore** | 🔧 | `:wrench:` | 构建/工具变更 | `chore: update dependencies`
+| **feat** | 🚀 | `:rocket:` | 新功能 | `🚀 feat: add password reset feature` |
+| **fix** | 🐞 | `:beetle:` | 修复 Bug | `🐞 fix: resolve authentication timeout` |
+| **docs** | 📚 | `:books:` | 文档更新 | `📚 docs: update endpoint documentation` |
+| **style** | 💄 | `:lipstick:` | 代码格式化 | `💄 style: format button styles` |
+| **refactor** | ♻️ | `:recycle:` | 重构代码 | `♻️ refactor: simplify date formatting` |
+| **perf** | ⚡ | `:zap:` | 性能优化 | `⚡ perf: optimize database queries` |
+| **test** | 🧪 | `:test_tube:` | 测试相关 | `🧪 test: add unit tests for login` |
+| **chore** | 🔧 | `:wrench:` | 构建/工具变更 | `🔧 chore: update dependencies`
 
 ### 🛠️  扩展类型
 
 | Type | Emoji | Code | 说明 | 示例 |
 |------|-------|------|------|------|
-| **build** | 📦 | `:package:` | 构建变更 | `build: update configuration` |
-| **ci** | 👷 | `:construction_worker:` | CI 配置/脚本变更 | `ci: add automated testing workflow` |
-| **revert** | ⏪ | `:rewind:` | 回滚提交 | `revert: feat: add user login` |
-| **merge** | 🔀 | `:twisted_rightwards_arrows:` | 合并分支 | `merge: dev into main` |
+| **build** | 📦 | `:package:` | 构建变更 | `📦 build: update configuration` |
+| **ci** | 👷 | `:construction_worker:` | CI 配置/脚本变更 | `👷 ci: add automated testing workflow` |
+| **revert** | ⏪ | `:rewind:` | 回滚提交 | `⏪ revert: feat: add user login` |
+| **merge** | 🔀 | `:twisted_rightwards_arrows:` | 合并分支 | `🔀 merge: dev into main` |
 
 ### 🌟 特殊类型
 
 | Type | Emoji | Code | 说明 | 示例 |
 |------|-------|------|------|------|
-| **init** | 🎉 | `:tada:` | 初始化项目 | `init: initial commit` |
-| **security** | 🔒 | `:lock:` | 安全相关 | `security: fix XSS vulnerability` |
-| **config** | ⚙️ | `:gear:` | 配置文件修改 | `config: update rules` |
-| **deps** | ⬆️ | `:arrow_up:` | 依赖升级 | `deps: upgrade react to v18` |
-| **breaking** | 💥 | `:boom:` | 破坏性变更 | `breaking: change response format` |
-| **remove** | 🔥 | `:fire:` | 移除代码或文件 | `remove: delete old auth system` |
-| **wip** | 🚧 | `:construction:` | 工作进行中 | `wip: under development` |
-| **hotfix** | 🚑 | `:ambulance:` | 紧急修复 | `hotfix: fix payment processing` |
+| **init** | 🎉 | `:tada:` | 初始化项目 | `🎉 init: initial commit` |
+| **security** | 🔒 | `:lock:` | 安全相关 | `🔒 security: fix XSS vulnerability` |
+| **config** | ⚙️ | `:gear:` | 配置文件修改 | `⚙️ config: update rules` |
+| **deps** | ⬆️ | `:arrow_up:` | 依赖升级 | `⬆️ deps: upgrade react to v18` |
+| **breaking** | 💥 | `:boom:` | 破坏性变更 | `💥 breaking: change response format` |
+| **remove** | 🔥 | `:fire:` | 移除代码或文件 | `🔥 remove: delete old auth system` |
+| **wip** | 🚧 | `:construction:` | 工作进行中 | `🚧 wip: under development` |
+| **hotfix** | 🚑 | `:ambulance:` | 紧急修复 | `🚑 hotfix: fix payment processing` |
 
 ## Scope 范围说明
 
