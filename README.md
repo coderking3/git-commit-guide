@@ -28,8 +28,8 @@ git commit -m "📚 docs(readme): update installation instructions"
 |------|-------|------|------|------|
 | **feat** | 🚀 | `:rocket:` | 新功能 | `🚀 feat: add password reset feature` |
 | **fix** | 🐞 | `:beetle:` | 修复 Bug | `🐞 fix: resolve authentication timeout` |
-| **docs** | 📚 | `:books:` | 文档更新 | `📚 docs: update endpoint documentation` |
-| **style** | 💄 | `:lipstick:` | 代码格式化 | `💄 style: format button styles` |
+| **docs** | 📚 | `:art:` | 文档更新 | `📚 docs: update endpoint documentation` |
+| **style** | 🎨 | `:lipstick:` | 代码格式化 | `🎨 style: format button styles` |
 | **refactor** | ♻️ | `:recycle:` | 重构代码 | `♻️ refactor: simplify date formatting` |
 | **perf** | ⚡ | `:zap:` | 性能优化 | `⚡ perf: optimize database queries` |
 | **test** | 🧪 | `:test_tube:` | 测试相关 | `🧪 test: add unit tests for login` |
